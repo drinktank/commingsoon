@@ -1,6 +1,0 @@
-.. image:: drinktank-qr.png
-    :alt: Load Fail
-    :align: center
-    :width: 200px
-    :height: 200px
-
